@@ -8,3 +8,6 @@ int c=a+b;
 System.out.println(c);
 
 ```
+- [x] Turn onGitHub pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
